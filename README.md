@@ -1,3 +1,6 @@
+<p align="center"><a href="https://t.me/sql_generate_bot"><img src="https://te.legra.ph/file/c010530f55c1033fbc5d8.jpg" width="300"></a></p>
+<p align="center">
+
 ### 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐄𝐥𝐞𝐩𝐡𝐚𝐧𝐭 𝐒𝐪𝐥
 
 ᴇʟᴇᴘʜᴀɴᴛꜱQʟ ᴘʀᴏᴠɪᴅᴇꜱ ᴀ ʙʀᴏᴡꜱᴇʀ ᴛᴏᴏʟ ꜰᴏʀ ꜱQʟ Qᴜᴇʀɪᴇꜱ ᴡʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ᴄʀᴇᴀᴛᴇ, ʀᴇᴀᴅ, ᴜᴘᴅᴀᴛᴇ ᴀɴᴅ ᴅᴇʟᴇᴛᴇ ᴅᴀᴛᴀ ᴅɪʀᴇᴄᴛ ꜰʀᴏᴍ ʏᴏᴜʀ ᴡᴇʙ ʙʀᴏᴡꜱᴇʀ.
