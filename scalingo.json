@@ -1,8 +1,8 @@
 {
-    "name": "Mongo-Db-bot",
-    "description": "A Best For Developers Using this you can generateMongo Db URL easily.",
+    "name": "Sql_generate_bot",
+    "description": "A Best For Developers Using this you can generate Elephant SQL Db URL easily.",
     "keywords": ["tkj", "Tjk",]
-    "repository": "https://github.com/itz-pro-ddk/Mongodb-bot",
+    "repository": "https://github.com/itz-pro-ddk/Elephant-Sql-Db-bot",
   "stack": "container",
     "env": {
         "Generating_System": {
@@ -38,7 +38,7 @@
         "GROUP_SUPPORT": {
             "description": "Ur Support Group Username",
             "required": false,
-            "value": "TheSupportChat"
+            "value": "kizuki_chat"
         },
         "UPDATES_CHANNEL": {
             "description": "Your Updates Channel",
